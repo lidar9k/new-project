@@ -1,225 +1,321 @@
 [
   [
+    "NUMBER",
     "GROUP",
     "TYPE",
     "DETAIL",
     "OPTION1",
-    "OPTION2"
+    "OPTION2",
+    "情報1",
+    "情報2"
   ],
   [
+    1,
     "meta",
     "title",
     "ページタイトルです",
     "",
+    "",
+    "",
     ""
   ],
   [
+    2,
     "meta",
     "description",
     "ページ内容です",
     "",
+    "",
+    "",
     ""
   ],
   [
+    3,
     "contents",
     "h1",
     "記事の一番見出し",
     "",
+    "",
+    "",
     ""
   ],
   [
+    4,
     "contents",
     "fu-cha1-l",
     "左吹き出しの内容",
     "",
+    "",
+    "",
     ""
   ],
   [
+    5,
     "contents",
     "fu-cha2-r",
     "右吹き出しの内容",
     "",
+    "",
+    "",
     ""
   ],
   [
+    6,
     "contents",
     "text",
     "一般本文",
     "",
+    "",
+    "",
     ""
   ],
   [
+    7,
     "contents",
     "text",
     "複数行対応",
     "",
+    "",
+    "",
     ""
   ],
   [
+    8,
     "contents",
     "space",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
+    9,
     "contents",
     "text",
     "**強調**、__そのた__、<br>などに対応",
     "",
+    "",
+    "この情報は無視する",
     ""
   ],
   [
+    10,
     "contents",
     "mokuji",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
+    11,
     "contents",
     "h2",
     "見出し",
     "",
+    "",
+    "",
     ""
   ],
   [
+    12,
     "contents",
     "link-card",
     "リンク先",
     "",
+    "",
+    "",
     ""
   ],
   [
+    13,
     "contents",
     "button-A",
     "ボタンの内容",
     "リンク先",
+    "",
+    "",
     ""
   ],
   [
+    14,
     "contents",
     "image-big",
     "イメージ画像",
     "リンク先",
-    "alt内容"
+    "alt内容",
+    "",
+    ""
   ],
   [
+    15,
     "contents",
     "image-mid",
     "イメージ画像",
     "リンク先",
-    "alt内容"
+    "alt内容",
+    "",
+    ""
   ],
   [
+    16,
     "contents",
     "image-min",
     "イメージ画像",
     "リンク先",
-    "alt内容"
+    "alt内容",
+    "",
+    ""
   ],
   [
+    17,
     "contents",
     "table-info",
     "3",
     "head=y",
-    "side=y"
+    "side=y",
+    "",
+    ""
   ],
   [
+    18,
     "contents",
     "table",
     "head1",
     "head1",
+    "",
+    "",
     ""
   ],
   [
+    19,
     "contents",
     "table",
     "head2",
     "head2",
+    "",
+    "",
     ""
   ],
   [
+    20,
     "contents",
     "table",
     "side1",
     "side1",
+    "",
+    "",
     ""
   ],
   [
+    21,
     "contents",
     "table",
     "text1-1",
     "1-1",
+    "",
+    "",
     ""
   ],
   [
+    22,
     "contents",
     "table",
     "text1-2",
     "1-2",
+    "",
+    "",
     ""
   ],
   [
+    23,
     "contents",
     "table",
     "side2",
     "side2",
+    "",
+    "",
     ""
   ],
   [
+    24,
     "contents",
     "table",
     "text2-1",
     "2-1",
+    "",
+    "",
     ""
   ],
   [
+    25,
     "contents",
     "table",
     "text2-2",
     "2-2",
+    "",
+    "",
     ""
   ],
   [
+    26,
     "contents",
     "article",
     "article1",
     "",
+    "",
+    "",
     ""
   ],
   [
+    27,
     "contents",
     "ad",
     "ad1",
     "",
+    "",
+    "",
     ""
   ],
   [
+    28,
     "page-info",
     "tag",
     "東京",
     "",
+    "",
+    "",
     ""
   ],
   [
+    29,
     "page-info",
     "tag",
     "大阪",
     "",
-    ""
-  ],
-  [
-    "page-info",
-    "category",
-    "宅配",
+    "",
     "",
     ""
   ],
   [
+    30,
+    "page-info",
+    "category",
+    "宅配",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    31,
     "page-info",
     "page-image",
     "イメージ画像",
+    "",
+    "",
     "",
     ""
   ]
